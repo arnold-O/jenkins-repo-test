@@ -29,5 +29,6 @@ df["Is_Teen"] = df["Age"].between(13, 19)
 
 print("\nUpdated DataFrame:")
 print(df)
+print(df)
 
 print("\nExercise completed successfully!")
