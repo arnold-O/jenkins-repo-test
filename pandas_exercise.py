@@ -4,7 +4,7 @@ print("=== Pandas Age Exercise ===")
 
 # Create a sample dataset of people and their ages
 data = {
-    "Name": ["Alice", "Bob", "Charlie", "Diana", "Evan"],
+    "Name": ["Alex", "Bob", "Charlie", "Edith", "Evan"],
     "Age": [15, 17, 16, 14, 18]
 }
 
